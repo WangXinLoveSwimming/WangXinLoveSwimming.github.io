@@ -1,4 +1,4 @@
-# # Xin Wang
+# Xin Wang
 ANDROID DEVELOPER | wangxin_evan@qq.com
 
 ## Summary
